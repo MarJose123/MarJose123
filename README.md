@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marjose</h1>
 <h3 align="center">A passionate Software Engineer from Philippines</h3>
 
-
-<p align="left"> <a href="https://twitter.com/marjose_darang" target="blank"><img src="https://img.shields.io/twitter/follow/marjose_darang?logo=twitter&style=for-the-badge" alt="marjose_darang" /></a> </p>
-
 - 🔭 I’m currently working on **eBMS System Project**
 
 - 🌱 I’m currently learning **Machine Learning, Home automation, and other stuff**
