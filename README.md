@@ -20,6 +20,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/whoami213) 
-
+  [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge&link=https://github.com/sponsors/MarJose123)](https://github.com/sponsors/MarJose123) 
+  
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
