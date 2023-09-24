@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Philippines</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on eBMS System Project<br>🌱 I’m currently learning Machine Learning, Home automation, and other stuff<br>📫 How to reach me marjose.darang@gmail.com<br>⚡ Learned by experience
+🔭 I’m currently working on eBMS System Project and Recruit (_OSP_) <br>🌱 I’m currently learning Machine Learning, Home automation, and other stuff<br>📫 How to reach me marjose.darang@gmail.com<br>⚡ Learned by experience
 
 
 ## 🌐 Socials:
