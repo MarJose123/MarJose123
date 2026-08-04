@@ -81,6 +81,11 @@ Machine learning fundamentals, home automation, and whatever rabbit hole this we
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/MarJose123/Sloth/pull/5) in [MarJose123/Sloth](https://github.com/MarJose123/Sloth)
+2. 💪 Opened PR [#5](https://github.com/MarJose123/Sloth/pull/5) in [MarJose123/Sloth](https://github.com/MarJose123/Sloth)
+3. 🎉 Merged PR [#67](https://github.com/MarJose123/Zepeed/pull/67) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+4. 🔒 Closed issue [#62](https://github.com/MarJose123/Zepeed/issues/62) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+5. 💪 Opened PR [#67](https://github.com/MarJose123/Zepeed/pull/67) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
 <!--END_SECTION:activity-->
 
 ---
