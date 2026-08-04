@@ -9,6 +9,7 @@ Senior developer building open-source tooling for the Laravel & Filament ecosyst
 [![GitHub followers](https://img.shields.io/github/followers/Marjose123?style=flat&logo=github&color=0EA5E9)](https://github.com/Marjose123?tab=followers)
 [![Filament Lockscreen Stars](https://img.shields.io/github/stars/Marjose123/filament-lockscreen?style=flat&logo=github&color=0EA5E9&label=lockscreen%20★)](https://github.com/Marjose123/filament-lockscreen)
 [![Filament Webhook Server Stars](https://img.shields.io/github/stars/Marjose123/filament-webhook-server?style=flat&logo=github&color=0EA5E9&label=webhook-server%20★)](https://github.com/Marjose123/filament-webhook-server)
+![Open to opportunities](https://img.shields.io/badge/Open%20to-opportunities-0EA5E9?style=flat&logo=briefcase&logoColor=white)
 
 </div>
 
