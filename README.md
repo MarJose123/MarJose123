@@ -82,11 +82,11 @@ Machine learning fundamentals, home automation, and whatever rabbit hole this we
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MarJose123/Sloth/pull/7) in [MarJose123/Sloth](https://github.com/MarJose123/Sloth)
-2. 💪 Opened PR [#7](https://github.com/MarJose123/Sloth/pull/7) in [MarJose123/Sloth](https://github.com/MarJose123/Sloth)
-3. 🗣 Commented on [#7809](https://github.com/esengine/DeepSeek-Reasonix/issues/7809#issuecomment-5211368419) in [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-4. 🎉 Merged PR [#68](https://github.com/MarJose123/Zepeed/pull/68) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-5. 🔒 Closed issue [#63](https://github.com/MarJose123/Zepeed/issues/63) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+1. ℹ️ Labeled issue [#8026](https://github.com/esengine/DeepSeek-Reasonix/issues/8026) in [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+2. ❗ Opened issue [#8026](https://github.com/esengine/DeepSeek-Reasonix/issues/8026) in [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+3. ℹ️ Assigned issue [#76](https://github.com/MarJose123/Zepeed/issues/76) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+4. ❗ Opened issue [#76](https://github.com/MarJose123/Zepeed/issues/76) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+5. ❗ Opened issue [#75](https://github.com/MarJose123/Zepeed/issues/75) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
 <!--END_SECTION:activity-->
 
 ---
