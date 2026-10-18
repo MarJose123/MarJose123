@@ -82,11 +82,11 @@ Machine learning fundamentals, home automation, and whatever rabbit hole this we
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/MarJose123/Zepeed/pull/118) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-2. 💪 Opened PR [#118](https://github.com/MarJose123/Zepeed/pull/118) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-3. 🎉 Merged PR [#117](https://github.com/MarJose123/Zepeed/pull/117) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-4. 💪 Opened PR [#117](https://github.com/MarJose123/Zepeed/pull/117) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-5. 🎉 Merged PR [#116](https://github.com/MarJose123/Zepeed/pull/116) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+1. 🎉 Merged PR [#120](https://github.com/MarJose123/Zepeed/pull/120) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+2. 💪 Opened PR [#120](https://github.com/MarJose123/Zepeed/pull/120) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+3. 🎉 Merged PR [#119](https://github.com/MarJose123/Zepeed/pull/119) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+4. 💪 Opened PR [#119](https://github.com/MarJose123/Zepeed/pull/119) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+5. 🎉 Merged PR [#118](https://github.com/MarJose123/Zepeed/pull/118) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
 <!--END_SECTION:activity-->
 
 ---
