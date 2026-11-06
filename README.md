@@ -82,11 +82,11 @@ Machine learning fundamentals, home automation, and whatever rabbit hole this we
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/MarJose123/Zepeed/pull/127) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-2. 💪 Opened PR [#127](https://github.com/MarJose123/Zepeed/pull/127) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-3. 🎉 Merged PR [#126](https://github.com/MarJose123/Zepeed/pull/126) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-4. 💪 Opened PR [#126](https://github.com/MarJose123/Zepeed/pull/126) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
-5. 🎉 Merged PR [#125](https://github.com/MarJose123/Zepeed/pull/125) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+1. ❗ Opened issue [#554](https://github.com/Blarc/ai-commits-intellij-plugin/issues/554) in [Blarc/ai-commits-intellij-plugin](https://github.com/Blarc/ai-commits-intellij-plugin)
+2. 🎉 Merged PR [#127](https://github.com/MarJose123/Zepeed/pull/127) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+3. 💪 Opened PR [#127](https://github.com/MarJose123/Zepeed/pull/127) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+4. 🎉 Merged PR [#126](https://github.com/MarJose123/Zepeed/pull/126) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
+5. 💪 Opened PR [#126](https://github.com/MarJose123/Zepeed/pull/126) in [MarJose123/Zepeed](https://github.com/MarJose123/Zepeed)
 <!--END_SECTION:activity-->
 
 ---
